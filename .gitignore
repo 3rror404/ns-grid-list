@@ -1,0 +1,10 @@
+.idea
+*.js
+*.js.map
+*.log
+app/*.js
+platforms
+node_modules
+lib
+node_modules
+.DS_Store
